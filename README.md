@@ -18,15 +18,4 @@ The RCM simulations were completed at the Oak Ridge National Laboratory’s Tita
 
 Our findings suggest an increase in surface temperature in along the coast of California in the future, along with a decrease in upwelling intensity (See figure below). Most potentially damaging from our findings is the compounding effects of warmed, stratified ocean with decreasing upwelling intensity. Upwelling, by its nature, brings cool, nutrient rich water to the surface. This phenomenon supplies coastal and open ocean ecosystems with the nutrients required for primary production, and acts as a buffer against stratification and hypoxia. Our findings suggest a robust decrease in this buffer, while at the same time, increasing the intensity of a major cause of stratification. This would create a compounding effect: decreased upwelling would decrease ocean mixing at thermoclines, while increased surface temperature would increase the ability of the ocean to stratify at these thermoclines. This could inhibit the advection of important nutrients into the shallow ocean, and inhibit the circulation of dissolved oxygen into the deeper benthic layers.
 
-
-<iframe src="Visualizations/YearlyStatsGrid.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-
 Our findings suggest a latitudinal overlap of the locations of the most susceptible areas to these environmental factors, 33°-39°. These areas experience some of the strongest upwelling events within the CCS, and benefit from them by sustaining some of the most productive communities in the CCS. Our findings predict that surface and benthic ecosystems in these areas could be vulnerable in as greenhouse gases continue to concentrate in the atmosphere. In the shallow ocean, decreased upwelling intensity and increased stratification will inhibit the movement of nutrients that primary producers rely on, thus stifling phytoplankton and zooplankton growth. Increases in surface temperature could also create new avenues of environmental stress that local communities are not prepared to adapt to, resulting in decreased physiological performance and potentially geographical shifts in species residence.  These changes to shallow ocean communities could have cascading effects on the availability of prey up the trophic web. In the deeper ocean, decreased upwelling intensity and increased stratification will inhibit ocean mixing, and thus decrease availability of dissolved oxygen in the deeper ocean. This could result in hypoxic and anoxic events and create major species die-off in local communities.
