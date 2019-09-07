@@ -1,7 +1,9 @@
 # Measuring the Effects of Climate Change on the California Current System
 
+#### Feel free to run through the tutorials in **Notebooks**
+
 #### Overview
-he California Current system (CCS) is a Pacific Ocean current system moving south from Alaska to Baja California, and is home to a vast and diverse marine coastal ecosystem. This ecosystem supports a significant section of the world fishery economy.
+The California Current system (CCS) is a Pacific Ocean current system moving south from Alaska to Baja California, and is home to a vast and diverse marine coastal ecosystem. This ecosystem supports a significant section of the world fishery economy.
 
 Upwelling, which brings cold nutrient-rich water from the ocean bottom, is the driving force behind the diversity and strength of this ecosystem. It occurs in the CCS with the presence northerly or northwesterly geostrophic winds.  
 
@@ -10,11 +12,21 @@ Another effect of GHGs is there potential effects on surface temperatures. Poten
 
 In this thesis, we hypothesize that increasing atmospheric GHG concentrations will significantly alter local ecosystem through altering the rate of occurrence and intensity of upwelling events while increasing the SSTs within the CCS. In the summer, increasing GHG concentrations are hypothesized to alter mesoscale and local scale wind increasing upwelling favorable geostrophic wind conditions while increasing local SSTs. 
 
-In this thesis, an 11-member ensemble high resolution regional climate model (RCM) climate change experiments driven by 11 atmosphere-ocean global climate models (AOGCMs) will be used to test the aforementioned hypotheses on the California Current System. The driving AOGCM projections are from the Coupled Model Intercomparison Project Phase 5 (CMIP5), used in the latest Intergovernmental Panel on Climate Change (IPCC) report (IPCC, 2013). Using the CMIP5 projections, the high resolution RCM was driven for two 40-year time slices:  Historical (1965-2005) and future (2006-2050). Atmospheric GHG concentrations for the present day are prescribed according to observations, while the future GHG concentrations are prescribed by the IPCC Representative Concentration Pathway (RCP) 8.5. The RCP greenhouse gas concentrations of RCP 8.5 are the highest of the IPCC scenarios, however, there is little difference between RCP 8.5 and other RCPs by mid-21st century.
+In this thesis, an 10-member ensemble high resolution regional climate model (RCM) climate change experiments driven by 11 atmosphere-ocean global climate models (AOGCMs) will be used to test the aforementioned hypotheses on the California Current System. The driving AOGCM projections are from the Coupled Model Intercomparison Project Phase 5 (CMIP5), used in the latest Intergovernmental Panel on Climate Change (IPCC) report (IPCC, 2013). Using the CMIP5 projections, the high resolution RCM was driven for two 40-year time slices:  Historical (1965-2005) and future (2006-2050). Atmospheric GHG concentrations for the present day are prescribed according to observations, while the future GHG concentrations are prescribed by the IPCC Representative Concentration Pathway (RCP) 8.5. The RCP greenhouse gas concentrations of RCP 8.5 are the highest of the IPCC scenarios, however, there is little difference between RCP 8.5 and other RCPs by mid-21st century.
 
 The RCM simulations were completed at the Oak Ridge National Laboratory’s Titan. One of the greatest uncertainties of AOGCM climate change projections lies in the resolution of the models at regional scales. Without the consideration of fine scale processes, the impacts of climate change at the local and regional scale must be interpreted with an added level of uncertainty (Diffenbaugh et al., 2005). Dynamically downscaling AOGCMs with an RCM is a common method used to enhance the AOGCM simulations and reduce the range of uncertainty associated with the coarse resolution AOGCM simulations.  It therefore provides a means to improve information and reliability for climate change impacts studies.  Furthermore, the large 11-member ensemble will provide a greater measure of the uncertainty associated with intermodel variability.
 
+Our findings suggest an increase in surface temperature in along the coast of California in the future, along with a decrease in upwelling intensity (See figure below). Most potentially damaging from our findings is the compounding effects of warmed, stratified ocean with decreasing upwelling intensity. Upwelling, by its nature, brings cool, nutrient rich water to the surface. This phenomenon supplies coastal and open ocean ecosystems with the nutrients required for primary production, and acts as a buffer against stratification and hypoxia. Our findings suggest a robust decrease in this buffer, while at the same time, increasing the intensity of a major cause of stratification. This would create a compounding effect: decreased upwelling would decrease ocean mixing at thermoclines, while increased surface temperature would increase the ability of the ocean to stratify at these thermoclines. This could inhibit the advection of important nutrients into the shallow ocean, and inhibit the circulation of dissolved oxygen into the deeper benthic layers.
 
-#### Installation
-1. Clone the git repo.
-2. run pip install -r requirements.txt
+
+<iframe src="/Visualizations/YearlyStatsGrid.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+Our findings suggest a latitudinal overlap of the locations of the most susceptible areas to these environmental factors, 33°-39°. These areas experience some of the strongest upwelling events within the CCS, and benefit from them by sustaining some of the most productive communities in the CCS. Our findings predict that surface and benthic ecosystems in these areas could be vulnerable in as greenhouse gases continue to concentrate in the atmosphere. In the shallow ocean, decreased upwelling intensity and increased stratification will inhibit the movement of nutrients that primary producers rely on, thus stifling phytoplankton and zooplankton growth. Increases in surface temperature could also create new avenues of environmental stress that local communities are not prepared to adapt to, resulting in decreased physiological performance and potentially geographical shifts in species residence.  These changes to shallow ocean communities could have cascading effects on the availability of prey up the trophic web. In the deeper ocean, decreased upwelling intensity and increased stratification will inhibit ocean mixing, and thus decrease availability of dissolved oxygen in the deeper ocean. This could result in hypoxic and anoxic events and create major species die-off in local communities.
