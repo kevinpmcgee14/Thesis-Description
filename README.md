@@ -19,7 +19,7 @@ The RCM simulations were completed at the Oak Ridge National Laboratory’s Tita
 Our findings suggest an increase in surface temperature in along the coast of California in the future, along with a decrease in upwelling intensity (See figure below). Most potentially damaging from our findings is the compounding effects of warmed, stratified ocean with decreasing upwelling intensity. Upwelling, by its nature, brings cool, nutrient rich water to the surface. This phenomenon supplies coastal and open ocean ecosystems with the nutrients required for primary production, and acts as a buffer against stratification and hypoxia. Our findings suggest a robust decrease in this buffer, while at the same time, increasing the intensity of a major cause of stratification. This would create a compounding effect: decreased upwelling would decrease ocean mixing at thermoclines, while increased surface temperature would increase the ability of the ocean to stratify at these thermoclines. This could inhibit the advection of important nutrients into the shallow ocean, and inhibit the circulation of dissolved oxygen into the deeper benthic layers.
 
 
-<iframe src="/Visualizations/YearlyStatsGrid.html"
+<iframe src="Visualizations/YearlyStatsGrid.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
