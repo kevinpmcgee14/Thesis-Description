@@ -1,6 +1,9 @@
 # Measuring the Effects of Climate Change on the California Current System
 
-#### Feel free to run through the tutorials in **Notebooks**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevinpmcgee14/Thesis-Description/master)
+
+
+#### Feel free to run through the tutorials by clicking the binder button above
 
 #### Overview
 The California Current system (CCS) is a Pacific Ocean current system moving south from Alaska to Baja California, and is home to a vast and diverse marine coastal ecosystem. This ecosystem supports a significant section of the world fishery economy.
