@@ -6,7 +6,7 @@ seaborn==0.8.1
 matplotlib==2.2.2
 holoviews==1.10.7
 dask==0.17.5
-geos==3.6.2
+geos==0.2.2
 gdal==3.0.1
 shapely==1.6.4.post2
 pyshp==1.2.12
